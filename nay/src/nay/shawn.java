@@ -11,5 +11,13 @@ public class shawn {
 		this.rollno=rollno;
 		this.age=age;
 	}
+	
+	
+	String get_name(){
+		return name;
+	}
+	int get_age() {
+		return age;
+	}
 
 }
